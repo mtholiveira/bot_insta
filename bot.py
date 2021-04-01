@@ -125,5 +125,5 @@ class InstagramBot:
 
 
 
-matheusBot = InstagramBot('matheus_ferreira9827', 'mo090998')
+matheusBot = InstagramBot('email', 'senha')
 matheusBot.login()
